@@ -1,6 +1,6 @@
 
 **File-Bloating** is a Python script that allows you to increase the size of executable files by adding random or null bytes. This can be useful for various purposes, such as testing, bypassing file size checks.
-```markdown
+markdown
 # File-Bloating
 
 **File-Bloating** is a simple Python script designed to increase the size of executable files by appending either random bytes or null bytes. It allows users to inflate file sizes for testing or experimentation purposes.
