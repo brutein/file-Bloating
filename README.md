@@ -12,7 +12,7 @@ This is a simple python script that allows you to increase the size of executabl
 3. Once the process is complete, the new file size is displayed.
 
 ## Usage
-```bash
+```py
 [#] Enter FileName: myfile.exe
 [#] Enter How Much KB You Need: 100
 [?] Random Bytes Or Null Bytes? (R/N) N For Null
