@@ -1,5 +1,5 @@
 
-This is a simple python script that allows you to increase the size of executable files by adding random or null bytes. This can be useful for various purposes, such as testing, bypassing file size checks.
+This is a simple python script that allows you to increase the size of executable files by adding random or null bytes. This can be useful for various purposes, such as bypassing file size checks by AV's
 
 ## Features
 - Increase file size by a specified number of KB.
