@@ -15,5 +15,5 @@ This is a simple python script that allows you to increase the size of executabl
 ```
 [#] Enter FileName: myfile.exe
 [#] Enter How Much KB You Need: 100
-[?] Random Bytes Or Null Bytes? (R/N) N For Null
+[?] Random Bytes Or Null Bytes? (R/N) N For Null : n
 ```
