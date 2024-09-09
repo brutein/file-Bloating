@@ -21,23 +21,3 @@ markdown
 [#] Enter How Much KB You Need: 100
 [?] Random Bytes Or Null Bytes? (R/N) N For Null
 ```
-
-## Requirements
-- Python 3.x
-- `pycryptodome` library for random byte generation
-
-Install the necessary library with:
-```bash
-pip install pycryptodome
-```
-
-## Example
-To increase the size of `myfile.exe` by 100KB using null bytes:
-```bash
-[#] Enter FileName: myfile.exe
-[#] Enter How Much KB You Need: 100
-[?] Random Bytes Or Null Bytes? (R/N) N For Null
-```
-
-
-This structure will be a good starting point for your GitHub project!
